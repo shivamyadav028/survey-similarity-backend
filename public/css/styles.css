@@ -1,0 +1,28 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+}
+
+#survey-data,
+#similarity-data {
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ddd;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
